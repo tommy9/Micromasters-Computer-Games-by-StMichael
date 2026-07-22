@@ -1,0 +1,7 @@
+A spider has trapped a number of juicy flies in her web. She now wants to tour her larder, visiting each meal in turn.
+
+The aim of the game is to move the spider from fly to fly and then back to her starting point in as few moves as possible. You start by choosing a level of difficulty from 1 (easy) to 6 (difficult).
+
+On the screen the spider is shown as an asterisk and her victims are labelled A, B, C and so on. The spider can move in eight different directions. A diagram shows how to make these moves. She must inspect her prey in alphabetical order and may not land on any square twice.
+
+If you want the computer to restart the game with the spider and flies in the same positions, enter Y when you see the message “SAME WEB AGAIN?” or type GOTO 280. You or a friend can then try for a lower score.

@@ -1,0 +1,20 @@
+Micromasters Computer Games
+
+gives line-by-line listings for keying in 14 games for the Spectrum, BBC, Electron and Commodore 64. The games vary from simple blocking games to brain-teasers, games of strategy and keyboard trainers; levels of difficulty range from simple to near impossible! The listings are quick to key in, and subroutines for colour and sound are included.
+
+Author Patricia Grady teaches computer studies and has taught mathematics from junior to diploma level. She has published books on mathematics, games and puzzles.
+
+
+Author: Patricia Grady
+Designer: Ben White
+Illustrators: Hayward Art
+Editorial: Christopher Maynard
+           Frances Ferneyhough
+
+Published exclusively for Marks and Spencer p.l.c.
+by Grisewood & Dempsey Limited,
+Elsley Court, 20-22 Great Titchfield Street, London W1
+
+© Grisewood & Dempsey Limited 1984
+
+Printed by Graficas Reunidas SA. Madrid, Spain

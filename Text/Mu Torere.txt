@@ -1,0 +1,10 @@
+Mu Torere is a traditional Maori game from New Zealand. The board consists of an 8-pointed star and a central area called the ‘putahi’. The original boards were either drawn on the ground or marked out on the bark of a tree.
+
+Now you can play Mu Torere against the computer. You have the black pieces (numbered 1 to 4) and the computer has the red pieces. This is a blocking game. The aim is to blockade the computer’s pieces so that they cannot move.
+
+There are three types of move:
+(1) from the centre to a point of the star;
+(2) from one point to an adjacent point;
+(3) from a point of the star to the centre (but only if one or both neighbouring points are occupied by the enemy).
+
+The best way to learn the game is by playing it as the computer will not allow you to break the rules!

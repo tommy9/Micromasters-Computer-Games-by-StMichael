@@ -1,0 +1,7 @@
+During a routine cruise through the Sirius system, the sirens of the Starship *Pluto* sound ‘Red Alert’. The scanners have picked up an unusual storm of metallic meteors. The shipboard computers are not programmed to deal with anything like this. You will have to fire the photon blasters manually.
+
+You have one blaster for each of the numbered sectors shown on the screen. Use the keys 1 to 8 to fire. The sooner you hit the meteors, the more points you score.
+
+The ship has a force field which will vaporise any meteors you miss, but will reduce in strength each time. The numbers near the centre of the display show the strength of this field. If meteor hits reduce the strength to zero in any sector the ship is destroyed.
+
+At the start of the game you choose a level of difficulty from 1 (easy) to 20 (impossible). To win you must survive 30 meteors.

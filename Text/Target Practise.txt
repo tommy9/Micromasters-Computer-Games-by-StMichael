@@ -1,0 +1,4 @@
+ The computer is going to draw a grid and set up ten hidden targets for you. Fire at the targets by entering a row number from 0 to 9, then a column letter from A to O.
+ After each shot a new symbol will appear on the grid in the space at which you fired - a circle for a miss, a square for a near miss or a star for a hit. The game ends when you have found all ten targets.
+ A score of under 80 shots is good. If you take less than 50 shots to hit all ten targets, you must be an electronic mind reader.
+ Remember that two targets may be next to each other!

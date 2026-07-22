@@ -1,0 +1,11 @@
+A clever forger is at work. He is producing counterfeit copies of top-grade copper ingots. The forgeries contain high proportions of cheaper metals such as lead, iron and zinc.
+
+You have just been shipped a consignment of copper ingots which includes one forgery. You can detect it because it will be either heavier or lighter than the other ingots. The aim of the game is to find the forgery with as few weighings as possible on your pair of scales.
+
+Choose a level of difficulty from 1 (easy) to 8 (difficult). The computer will then display up to 50 copper bars.
+
+You now enter the number of bars you wish to weigh. If there are 8 bars in all, for instance, when you see the message “IN LEFT PAN?”, you might place the first 4 bars in the left-hand pan of the scales by entering 1, and then entering 4. The next 4 bars you would place in the right-hand pan by entering 5, and then 8. To place just 1 bar into a pan, enter the number of the bar (number 8 for example) both times.
+
+The computer weighs the ingots and shows you the result. Keep weighing the ingots until you think you know which ingot is a forgery; then enter N when the computer asks “WOULD YOU LIKE ANOTHER WEIGHING?”.
+
+You should then key in the number of the forgery and H if you think it is heavier or L if you think it is lighter. The computer will reveal how accurate your detective work has been.

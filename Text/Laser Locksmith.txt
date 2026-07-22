@@ -1,0 +1,13 @@
+You are a hi-tech locksmith working for Counter-Intelligence. Your job is to make a copy of the ‘key’ to an ultra-sophisticated laser lock.
+
+The key consists of nine mirror units that are fixed in various positions. You must find the correct combination of their positions by testing the lock with pulses of laser light.
+
+The secret combination uses four mirror unit positions:  
+H – horizontal pair of mirrors  
+V – vertical pair of mirrors  
+F – forward sloping mirror  
+B – backward sloping mirror
+
+To play the game use capital C to move the cursor – the laser gun – to the position you want. Press L to fire a laser pulse, or M when you are ready to guess the mirror combination.
+
+Enter your guesses with the letters H, V, F and B. The computer will display correct guesses but refuse wrong ones. You also get penalty points for wrong guesses. As there are only four chances to get the right combination, you will find it very helpful to keep notes as you go along.

@@ -1,0 +1,9 @@
+Ten farms in a remote part of the country have been cut off by muddy floodwaters. You are the pilot of a small aircraft; your assignment is to drop a food parcel as close to each farm as possible.
+
+Your aircraft keeps circling each farm until you press capital D to drop a parcel. The centre of the target area is marked by a cross.
+
+You can score up to 400 points for a parcel dropped on target during the first flight pass over any farm. Later drops on target score up to 200 points. Your score will vary depending on how close you are to the target. No points are given for parcels which land outside the target area.
+
+The “TOO LATE” message indicates that you pressed D too late and the parcel has landed off-screen in floodwater.
+
+The object of the game is to gain the highest score after visiting ten farms – scores over 1500 are very good indeed.

@@ -1,0 +1,4 @@
+Imagine a snow-covered mountainside in the Austrian Alps. Television viewers are waiting to see world-class skiers tackle a long, difficult slalom, speeding downhill through a series of flag-marked 'gates'.
+You are going to control one of the skiers, using the Z key to move left and the X key to move right.
+Your skier must stay on course and will be disqualified if he misses a 'gate' . The longer he survives, the narrower the gap between the flags becomes.
+You can make the game more difficult at the start by reducing the value of J in line 150.

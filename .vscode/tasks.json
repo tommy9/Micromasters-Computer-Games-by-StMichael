@@ -1,0 +1,51 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "BeebVSC Build Target 'Build.ssd'",
+            "type": "shell",
+            "problemMatcher": {
+                "owner": "6502",
+                "fileLocation": [
+                    "relative",
+                    "${workspaceRoot}"
+                ],
+                "pattern": {
+                    "regexp": "^(.*):(\\d+):\\s+(warning|error):\\s+(.*)$",
+                    "file": 1,
+                    "line": 2,
+                    "severity": 3,
+                    "message": 4
+                }
+            },
+            "command": "BeebAsm",
+            "args": [
+                "-v",
+                "-i",
+                "Build.asm",
+                "-do",
+                "Micromasters.ssd",
+                "-opt",
+                "3"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "BeebVSC Test Target",
+            "type": "shell",
+            "command": "open",
+            "args": [
+                "-a",
+                "b2",
+                "Micromasters.ssd"
+            ],
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+London is in peril! An Interplanetary Battle Fleet from Mars – whose inhabitants are infuriated by our claims that their planet is dead – has attacked. The Ministry of Defence is asleep, so you have to defend the city with just one missile launcher.
+You can move the launcher to the left using capital Z and to the right using X. Press F when you are ready to fire.
+The aliens descend cautiously at first, but be on your guard. If you let a single ship through, London will be devastated.
+During the game you score points for each invader you hit – more points for a ship high in the sky than for one close to the ground.
+If you want to make the game more difficult, try replacing (N+2) in line 200 by (N+1) or reducing the 4 in line 290 to 3, 2 or 1.

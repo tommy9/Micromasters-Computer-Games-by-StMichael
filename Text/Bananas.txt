@@ -1,0 +1,5 @@
+In this game the computer tries to guess your favourite food. It asks questions to which you can reply by entering capital Y for yes or capital N for no.
+At first the computer does not do very well. However, if you play several games the computer will build up a question ‘tree’ by asking players to enter extra questions that have yes or no answers.
+If the computer cannot answer your question the message “SUGGEST ANOTHER QUESTION” will appear. For instance, the question "WHAT COLOUR IS IT?" would be rejected because the answer is neither Y nor N. In the same way, if your favourite food is LEMONS, and the computer guesses BANANAS, the question "IS IT YELLOW?" would be no good because it has the answer Y for both fruits.
+The program allows the computer to store up to 49 questions and 50 types of food. If your machine has room for more questions in its memory, you may increase the value of J in line 110.
+Whenever you play this game remember that typing RUN clears the computer's memory. To restart the game without losing the current stock of questions, type GOTO 200.

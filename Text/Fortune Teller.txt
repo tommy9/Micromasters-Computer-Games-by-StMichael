@@ -1,0 +1,2 @@
+Your computer is not a good fortune-teller. It has no mystic powers and the only predictions it can make use the information that you, the programmer, put into a program. However, if you do this well you may be able to make at least some of your friends think your computer is a gypsy!
+You can enter your own data from line 800 to create custom predictions to surprise someone.

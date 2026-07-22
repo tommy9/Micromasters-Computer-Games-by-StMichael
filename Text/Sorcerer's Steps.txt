@@ -1,0 +1,5 @@
+You are a gallant knight trying to rescue a helpless princess (or you may be a warrior maiden on a similar quest). To succeed, and win the game, you must reach the top of the steps leading to the sorcerer’s tower.
+
+Choose a level of difficulty from 1 (easy) to 20 (impossible), then as you set out to climb, the sorcerer will bombard you with magic symbols. To destroy each of these strange missiles you must press the matching key as quickly as possible.
+
+Slowly you fight your way up the steps. Every time you are hit by a falling symbol, the strength of your enchanted sword is reduced and the game becomes more difficult. The symbols fall more quickly and drive you down the steps.

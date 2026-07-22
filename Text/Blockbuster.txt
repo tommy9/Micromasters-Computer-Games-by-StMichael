@@ -1,0 +1,13 @@
+Your computer can produce all kinds of exciting graphics simply using keyboard characters. With this program you can create many colourful displays.
+
+To plan your design, think of the screen as a piece of squared paper with numbered rows and columns. (rows 0 to 29, columns 0 to 19.)
+
+To define the screen area in which you will be working, select top and bottom row numbers, then left and right column numbers. The computer will fill the chosen area by printing a repeating pattern up to 10 characters long.
+
+If you decide on a pattern length of 4 then the computer will ask you 4 times to enter a character. In each case you also choose the colours in which the character will be displayed. For example, an Electron user might begin by entering *(RETURN) followed by 3(RETURN) for blue and then 4(RETURN) for yellow to get a blue background and a yellow star.
+
+You can use all the colours and characters on your computer to build an endless variety of patterns.
+
+If you stop the program by accident type GOTO 200 to continue.
+
+Remember you can print flashing colours, graphics symbols and letters on screen.

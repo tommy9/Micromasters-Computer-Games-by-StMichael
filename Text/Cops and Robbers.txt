@@ -1,0 +1,14 @@
+You are a detective hunting down a bank robber on the run and trying to recover the money he stole. At the start of the game the computer displays a forest surrounded by a hedge. The robber has just entered the forest from the West (left-hand side). As he blunders about among the trees he leaves a trail of footprints and scattered banknotes. After a while the robber may drop the bag of money in the hope of throwing you off his trail.
+
+You will have to wait a few seconds while the computer gives the robber a ten-move start. Then begin tracking him by keying in the direction (N, E, S, W) you want to go, followed by a number for the distance you wish to move. After each move, any clues you find about the robber’s trail will be shown on the screen:
+
+N, S etc = footprints going North, South etc  
+? = confused footprints going in several directions  
+£ = scattered banknotes
++ = shows that the robber no longer has the money
+* = the stolen money
+R = the robber
+
+If the robber reaches the East (right) side of the hedge he may escape from the woods and get away.
+
+The game continues until both the robber (R) and the money (*) have been found. The object is to find both of them in as few moves as possible.
